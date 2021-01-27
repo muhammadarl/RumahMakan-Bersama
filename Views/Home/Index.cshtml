@@ -1,0 +1,89 @@
+﻿@model IEnumerable<RumahMakan_Bersama.Models.WaitingListModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{int i = 0;}
+
+<div class="container">
+    <div class="text-center mt-3">
+        <a class="btn btn-primary" asp-controller="Home" asp-action="Create_List">Daftar Waiting List</a>
+    </div>
+    @*<div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card mt-4">
+                <div class="card-header text-center">Waiting List</div>
+                <div class="card-body">
+                    <form method="POST" action="">
+                        <div class="col-12 col-md-5 mx-auto mt-5">
+                            <label>Nama</label>
+                            <div class="form-group">
+                                <input id="nama" type="text" class="form-control" name="nama" required placeholder="Masukan Nama" autofocus>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-5 mx-auto mt-5">
+                            <label>Jumlah Kursi</label>
+                            <div class="form-group">
+                                <input id="berapakursi" type="text" class="form-control" name="berapakursi" required placeholder="Masukan Jumlah Kursi Pesanan">
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-5 mx-auto mt-5">
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>*@
+    <div class="row">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>
+                                No. 
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Nama)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Kursi)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Tanggal)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Status)
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var item in Model) {
+                        <tr>
+                            <td>
+                                @(++i)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Nama)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Kursi)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Tanggal)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Status)
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,40 @@
+@model RumahMakan_Bersama.Models.WaitingListModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Ubah</h1>
+
+<h4>Rumah-Makan Bersama</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditList">
+            <div class="col-12 col-md-5 mx-auto mt-5">
+                <label>Nama</label>
+                <div class="form-group">
+                    <input asp-for="Nama" class="form-control" />
+                    <span asp-validatsion-for="Nama" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-5 mx-auto mt-5">
+                <label>Jumlah Kursi</label>
+                <div class="form-group">
+                    <input asp-for="Kursi" class="form-control" />
+                    <span asp-validation-for="Kursi" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-5 mx-auto mt-5">
+                <label>Status</label>
+                <div class="form-group">
+                    <input asp-for="Status" class="form-control" />
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-5 mx-auto mt-5">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>                 

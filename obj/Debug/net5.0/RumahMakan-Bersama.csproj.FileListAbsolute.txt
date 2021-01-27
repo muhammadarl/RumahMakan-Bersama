@@ -1,0 +1,441 @@
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\appsettings.Development.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\appsettings.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.exe
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.deps.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.runtimeconfig.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.runtimeconfig.dev.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ref\RumahMakan-Bersama.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.pdb
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.Views.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.Views.pdb
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.csprojAssemblyReference.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.AssemblyInfoInputs.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.AssemblyInfo.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.csproj.CoreCompileInputs.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.MvcApplicationPartsAssemblyInfo.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorAssemblyInfo.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorAssemblyInfo.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\staticwebassets\RumahMakan-Bersama.StaticWebAssets.Manifest.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\staticwebassets\RumahMakan-Bersama.StaticWebAssets.xml
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\scopedcss\bundle\RumahMakan-Bersama.styles.css
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.TagHelpers.input.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.TagHelpers.output.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorCoreGenerate.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorTargetAssemblyInfo.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorTargetAssemblyInfo.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.Views.pdb
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\ref\RumahMakan-Bersama.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.pdb
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.genruntimeconfig.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.csproj.CopyComplete
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Admin\index.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Humanizer.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Home\Create_List.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Admin\EditList.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\appsettings.Development.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\appsettings.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\RumahMakan-Bersama.exe
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\RumahMakan-Bersama.deps.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\RumahMakan-Bersama.runtimeconfig.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\RumahMakan-Bersama.runtimeconfig.dev.json
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\RumahMakan-Bersama.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ref\RumahMakan-Bersama.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\RumahMakan-Bersama.pdb
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\RumahMakan-Bersama.Views.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\RumahMakan-Bersama.Views.pdb
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Humanizer.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.csprojAssemblyReference.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.AssemblyInfoInputs.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.AssemblyInfo.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.csproj.CoreCompileInputs.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.MvcApplicationPartsAssemblyInfo.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.RazorAssemblyInfo.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.RazorAssemblyInfo.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\staticwebassets\RumahMakan-Bersama.StaticWebAssets.Manifest.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\staticwebassets\RumahMakan-Bersama.StaticWebAssets.xml
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\scopedcss\bundle\RumahMakan-Bersama.styles.css
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.TagHelpers.input.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.TagHelpers.output.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.RazorCoreGenerate.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Admin\EditList.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Admin\index.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Home\Create_List.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.RazorTargetAssemblyInfo.cache
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.RazorTargetAssemblyInfo.cs
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.Views.pdb
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.csproj.CopyComplete
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\ref\RumahMakan-Bersama.dll
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.pdb
+D:\Kampus\semester 3\Pemrograman2\RumahMakan-Bersama - Copy\obj\Debug\net5.0\RumahMakan-Bersama.genruntimeconfig.cache
+D:\RumahMakan-Bersama\bin\Debug\net5.0\appsettings.Development.json
+D:\RumahMakan-Bersama\bin\Debug\net5.0\appsettings.json
+D:\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.exe
+D:\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.deps.json
+D:\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.runtimeconfig.json
+D:\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.runtimeconfig.dev.json
+D:\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ref\RumahMakan-Bersama.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.pdb
+D:\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.Views.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\RumahMakan-Bersama.Views.pdb
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Humanizer.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\RumahMakan-Bersama\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.csprojAssemblyReference.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.GeneratedMSBuildEditorConfig.editorconfig
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.AssemblyInfoInputs.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.AssemblyInfo.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.csproj.CoreCompileInputs.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.MvcApplicationPartsAssemblyInfo.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorAssemblyInfo.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorAssemblyInfo.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\staticwebassets\RumahMakan-Bersama.StaticWebAssets.Manifest.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\staticwebassets\RumahMakan-Bersama.StaticWebAssets.xml
+D:\RumahMakan-Bersama\obj\Debug\net5.0\scopedcss\bundle\RumahMakan-Bersama.styles.css
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.TagHelpers.input.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.TagHelpers.output.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorCoreGenerate.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Admin\EditList.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Admin\index.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Home\Create_List.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorTargetAssemblyInfo.cache
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.RazorTargetAssemblyInfo.cs
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.Views.pdb
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.csproj.CopyComplete
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.dll
+D:\RumahMakan-Bersama\obj\Debug\net5.0\ref\RumahMakan-Bersama.dll
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.pdb
+D:\RumahMakan-Bersama\obj\Debug\net5.0\RumahMakan-Bersama.genruntimeconfig.cache
